@@ -1,0 +1,1 @@
+Initial test to The Warrior Path game.
